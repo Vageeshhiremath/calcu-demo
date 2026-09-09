@@ -2,7 +2,7 @@
 
 A simple Python calculator project used for demonstrating Git, GitHub, and CI/CD.
 This is my fork.
-
+This is calcu-demo
 ## Project Structure
 
 ```text
